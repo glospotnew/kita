@@ -1,11 +1,11 @@
 var handler = async m => m.reply(`
 ╭─「 Donasi 」
-│ • DANA [tidak terdaftar]
-│ • GOPAY [tidak terdaftar]
-│ • OVO [tidak terdaftar]
+│ • DANA [082340108349]
+│ • GOPAY [-]
+│ • OVO [-]
 ╰────
 ╭─「 Hubungi 」
-│ > /owner
+│ > /owner 082340108349
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
