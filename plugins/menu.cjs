@@ -6,9 +6,9 @@ var {
 } = require('path');
 var moment = require('moment-timezone')
 var defaultMenu = {
-	before: `👋🏻 Halo kak %name\n`.trimStart(),
+	before: `👋 Halo kak %name\n`.trimStart(),
 	header: '*%category*',
-	body: '⚄ %cmd %islimit %isPremium',
+	body: '© %cmd %islimit %isPremium',
 	footer: '',
 	after: ``,
 }
